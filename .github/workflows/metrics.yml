@@ -1,0 +1,46 @@
+name: GitHub Metrics
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/metrics.yml
+  schedule:
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
+
+    steps:
+      - name: Explain missing Metrics token
+        if: ${{ env.METRICS_TOKEN == '' }}
+        run: echo "::warning::Add the METRICS_TOKEN repository secret to enable Metrics updates."
+
+      - name: Generate GitHub Metrics
+        if: ${{ env.METRICS_TOKEN != '' }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/metrics-core.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: main
+          committer_message: 'chore: update GitHub Metrics [Skip GitHub Action]'
+          user: brajesh31-dev
+          template: classic
+          base: header, activity, community, repositories
+          repositories_forks: yes
+          config_timezone: Asia/Kolkata
+          config_octicon: yes
+          config_twemoji: yes
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_limit: 8

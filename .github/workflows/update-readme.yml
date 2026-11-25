@@ -1,0 +1,36 @@
+name: Remove README Timestamp
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  remove-timestamp:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Remove timestamp line
+        run: |
+          if [ -f README.md ]; then
+            sed -i '/^Last updated:/d' README.md
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add README.md
+
+          if git diff --cached --quiet; then
+            echo "No timestamp line found."
+            exit 0
+          fi
+
+          git commit -m "chore: remove README timestamp"
+          git push origin HEAD

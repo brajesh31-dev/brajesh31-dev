@@ -1,0 +1,63 @@
+name: GitHub Achievements
+
+on:
+  schedule:
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  achievements:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
+
+    steps:
+      - name: Explain missing Metrics token
+        if: ${{ env.METRICS_TOKEN == '' }}
+        run: echo "::warning::Add the METRICS_TOKEN repository secret to enable achievement updates."
+
+      # Pin the upstream Projects V2 fix until it is included in a release.
+      - name: Checkout fixed Metrics source
+        if: ${{ env.METRICS_TOKEN != '' }}
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1
+        with:
+          repository: lowlighter/metrics
+          ref: 1e49d0b8b932624dd7762147e35ccc137eda09f1
+          path: .metrics-action
+          persist-credentials: false
+
+      - name: Layer Projects V2 fix onto the prebuilt Metrics image
+        if: ${{ env.METRICS_TOKEN != '' }}
+        shell: bash
+        run: |
+          cat > .metrics-action/Dockerfile <<'EOF'
+          FROM ghcr.io/lowlighter/metrics:v3.35-beta
+          COPY source/plugins/achievements/queries/achievements.graphql /metrics/source/plugins/achievements/queries/achievements.graphql
+          COPY source/plugins/achievements/list/users.mjs /metrics/source/plugins/achievements/list/users.mjs
+          EOF
+
+      - name: Generate GitHub Achievements card
+        if: ${{ env.METRICS_TOKEN != '' }}
+        uses: ./.metrics-action
+        with:
+          use_prebuilt_image: no
+          filename: metrics/metrics-achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: main
+          committer_message: 'chore: update GitHub achievements card [Skip GitHub Action]'
+          user: brajesh31-dev
+          template: classic
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: X
+          plugin_fortune: yes
+          config_timezone: Asia/Kolkata
+          config_octicon: yes
+          config_twemoji: yes
+          plugins_errors_fatal: yes

@@ -1,0 +1,71 @@
+name: Pacman Contribution Graph
+
+on:
+  schedule:
+    - cron: '29 4 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v6
+
+      - name: Generate Pacman contribution graph
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: brajesh31-dev
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          games: 'pacman,minesweeper'
+
+      - name: Apply the blue contribution palette
+        run: >-
+          python3 scripts/recolor_blue.py --kind svg
+          dist/pacman-contribution-graph.svg
+          dist/pacman-contribution-graph-dark.svg
+          dist/minesweeper-contribution-graph.svg
+          dist/minesweeper-contribution-graph-dark.svg
+
+      - name: Publish Pacman SVGs to the pacman branch
+        shell: bash
+        run: |
+          set -euo pipefail
+          test -s dist/pacman-contribution-graph.svg
+          test -s dist/pacman-contribution-graph-dark.svg
+          mkdir -p "$RUNNER_TEMP/pacman-publish"
+          mkdir -p "$RUNNER_TEMP/minesweeper-publish"
+          cp dist/pacman-contribution-graph.svg dist/pacman-contribution-graph-dark.svg "$RUNNER_TEMP/pacman-publish/"
+          cp dist/minesweeper-contribution-graph.svg dist/minesweeper-contribution-graph-dark.svg "$RUNNER_TEMP/minesweeper-publish/"
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout --orphan pacman
+          git rm -rf .
+          git clean -fdx
+          cp "$RUNNER_TEMP/pacman-publish/"*.svg .
+          git add -- pacman-contribution-graph.svg pacman-contribution-graph-dark.svg
+          git commit -m "chore: update Pacman contribution graph"
+          git push --force origin HEAD:pacman
+
+      - name: Publish Minesweeper SVGs to the output branch
+        shell: bash
+        run: |
+          set -euo pipefail
+          test -s "$RUNNER_TEMP/minesweeper-publish/minesweeper-contribution-graph.svg"
+          test -s "$RUNNER_TEMP/minesweeper-publish/minesweeper-contribution-graph-dark.svg"
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout --orphan output
+          git rm -rf .
+          git clean -fdx
+          cp "$RUNNER_TEMP/minesweeper-publish/"*.svg .
+          git add -- minesweeper-contribution-graph.svg minesweeper-contribution-graph-dark.svg
+          git commit -m "chore: update Minesweeper contribution graph"
+          git push --force origin HEAD:output

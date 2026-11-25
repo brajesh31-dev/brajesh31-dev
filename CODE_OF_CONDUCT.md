@@ -1,0 +1,103 @@
+# Code of Conduct
+
+## Our commitment
+
+Brajesh Kumar (`@brajesh31-dev`) is committed to a respectful, welcoming, and harassment-free environment for everyone participating in this repository. This applies to issues, pull requests, reviews, discussions, and other project spaces.
+
+## Expected behavior
+
+- Be respectful, patient, and constructive.
+- Focus criticism on ideas and work, not personal attributes.
+- Accept responsibility for mistakes and correct them openly.
+- Respect privacy and do not publish another person's private information.
+- Follow the repository's contribution, security, and licensing guidance.
+
+## Unacceptable behavior
+
+Harassment, discrimination, threats, personal attacks, doxxing, sexualized misconduct, sustained disruption, and knowingly abusive or demeaning conduct are not acceptable. The maintainer may remove content or restrict participation to protect the community.
+
+## Reporting and response
+
+Report a conduct concern privately to the repository owner through the contact options on [the brajesh31-dev GitHub profile](https://github.com/brajesh31-dev). Do not use a public issue for a sensitive report. Include relevant links and a concise description; avoid sharing unrelated personal information.
+
+The maintainer will review reports as promptly as practical, respect confidentiality to the extent possible, and determine a proportionate response. Retaliation against someone who raises a concern in good faith is not acceptable.
+
+## Scope
+
+This policy applies to project spaces and to conduct in public spaces when a person is representing or interacting with the project. It complements GitHub's own policies and does not replace them.
+
+## Respectful technical disagreement
+
+Disagreement about design, wording, or implementation is expected. Explain the impact and evidence, and propose a practical alternative without insulting or belittling another participant.
+
+## Inclusive participation
+
+Use welcoming language and make a reasonable effort to support people with different experience levels, backgrounds, identities, and communication styles.
+
+## Accessibility
+
+When sharing media or proposing profile changes, consider whether people using assistive technology can understand the content. Provide useful alternative text and avoid unnecessary flashing or motion.
+
+## Privacy
+
+Do not post private contact details, credentials, non-public repository information, or personal data without the person's consent. Use the private security process for sensitive technical reports.
+
+## Good-faith questions
+
+Ask questions in good faith and answer them with patience. Do not treat a beginner question as evidence that someone does not belong in the project.
+
+## Feedback
+
+Keep feedback specific, actionable, and relevant to the change under review. Explain the reason for requested changes and remain open to a different solution that addresses the same concern.
+
+## Attribution
+
+Credit the creators of third-party art, badges, code, or other material when applicable. Do not present another person's work as your own.
+
+## Licensing conduct
+
+Do not knowingly submit material that violates another person's copyright, license, or other rights. Raise uncertainty about an asset's provenance before adding it.
+
+## Security reports
+
+Do not publicly disclose an unpatched vulnerability or expose a secret to prove a point. Follow `SECURITY.md` and share only the information needed for a responsible review.
+
+## Maintainer responsibilities
+
+The maintainer will make reasonable efforts to apply this policy consistently, explain significant enforcement decisions when safe, and protect the confidentiality of people who report concerns.
+
+## Enforcement options
+
+Depending on the context and severity, the maintainer may issue a warning, request edits, remove content, close a discussion, restrict participation, or block a participant from project spaces.
+
+## Correction and restoration
+
+When appropriate, the maintainer may invite a participant to acknowledge impact, correct harmful content, or demonstrate changed behavior before restoring participation.
+
+## Retaliation
+
+Do not threaten, punish, or target someone for making a good-faith report, supporting a report, or cooperating with a review.
+
+## False or abusive reports
+
+A report made honestly will be treated seriously even if it cannot be substantiated. Knowingly fabricated reports or attempts to weaponize this process may themselves be addressed as misconduct.
+
+## Confidentiality limits
+
+Reports are handled privately where practical. The maintainer may need to share limited details to investigate, address an immediate safety issue, or comply with a legal obligation.
+
+## Appeals
+
+A participant may ask the maintainer to reconsider an enforcement decision by providing a concise explanation and relevant context through a private contact channel.
+
+## Project spaces
+
+Project spaces include repository issues, pull requests, code reviews, discussions, and project-related communication where contributors are acting on behalf of this repository.
+
+## External spaces
+
+A person's conduct outside project spaces is in scope when it is directly tied to project participation or creates a credible safety concern for participants.
+
+## Relationship to platform rules
+
+GitHub's Terms of Service and Community Guidelines continue to apply. This repository policy may add expectations for participation but does not supersede platform rules.

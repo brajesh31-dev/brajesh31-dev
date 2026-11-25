@@ -1,0 +1,22 @@
+{
+  "generatedAt": "2026-11-25T13:43:45.931Z",
+  "source": "GitHub REST API public profile and repositories",
+  "profile": {
+    "login": "brajesh31-dev",
+    "publicRepos": 1,
+    "followers": 0,
+    "following": 0
+  },
+  "repositories": [
+    {
+      "name": "brajesh31-dev",
+      "url": "https://github.com/brajesh31-dev/brajesh31-dev",
+      "description": null,
+      "stars": 0,
+      "forks": 0,
+      "language": null,
+      "updatedAt": "2026-11-25T02:17:30Z"
+    }
+  ],
+  "languages": {}
+}

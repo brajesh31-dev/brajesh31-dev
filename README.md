@@ -1,0 +1,728 @@
+<div align="center">
+
+<img src="https://www.gitskins.com/api/readme-reference/hero?username=brajesh31-dev&amp;theme=github-dark&amp;role=Software%20Engineer%20%7C%20AI%20%26%20Full-Stack%20Products&amp;v=readme-reference-2" width="100%" alt="Brajesh Kumar profile banner" />
+
+</div>
+
+# Hey, I'm Brajesh Kumar 👋
+
+> I build software at the intersection of **A.I, full-stack engineering, and developer experience**.<br>
+> I turn ideas into reliable products, intelligent systems, and digital experiences people actually use.
+
+<p align="center">
+  <a href="https://brajesh31.com"><img src="https://img.shields.io/badge/Portfolio-brajesh31.com-00C7FF?style=flat-square&amp;logo=googlechrome&amp;logoColor=white" alt="Portfolio: brajesh31.com" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/brajesh-kumar-9b58651a8"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn profile" /></a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@lifebetweencommit"><img src="https://img.shields.io/badge/YouTube-Life%20Between%20Commits-FF0000?style=flat-square&amp;logo=youtube&amp;logoColor=white" alt="YouTube: Life Between Commits" /></a>&nbsp;&nbsp;
+  <a href="https://x.com/lord_Brajesh"><img src="https://img.shields.io/badge/X-Follow-000000?style=flat-square&amp;logo=x&amp;logoColor=white" alt="Follow on X" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/brajesh31-dev?tab=followers"><img src="https://img.shields.io/github/followers/brajesh31-dev?style=flat-square&amp;color=00C7FF&amp;label=Followers" alt="GitHub followers" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/brajesh31-dev?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fbrajesh31-dev&amp;query=%24.public_repos&amp;label=Repositories&amp;color=00C7FF&amp;logo=github&amp;style=flat-square" alt="Public GitHub repositories" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/brajesh31-dev"><img src="https://komarev.com/ghpvc/?username=brajesh31-dev&amp;style=flat-square&amp;color=00C7FF&amp;label=Profile+Views" alt="GitHub profile views" /></a>&nbsp;&nbsp;
+  <a href="https://wakatime.com/@d55f1647-8848-4cc5-accd-7347e1a3d7b8"><img src="https://wakatime.com/badge/user/d55f1647-8848-4cc5-accd-7347e1a3d7b8.svg" alt="Total time coded since Sep 9 2025" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&amp;weight=600&amp;size=18&amp;pause=1200&amp;color=00C7FF&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Building+practical+AI+systems.;Shipping+full-stack+products.;Improving+developer+workflows.;Turning+ideas+into+software+people+use.;Designing.+Building.+Shipping." alt="" /></a>
+</p>
+
+<p align="center">
+  <a href="https://brajesh31-dev.github.io/brajesh31-dev/"><img src="https://img.shields.io/badge/Enter%20the%20Developer%20Universe-0D1117?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB&amp;color=00C7FF" alt="Enter Brajesh Kumar's interactive Developer Universe" /></a>
+</p>
+
+<details>
+  <summary><strong>Developer Universe navigation</strong></summary>
+
+  [World](https://brajesh31-dev.github.io/brajesh31-dev/#world) · [Journey](https://brajesh31-dev.github.io/brajesh31-dev/#journey) · [Projects](https://brajesh31-dev.github.io/brajesh31-dev/#projects) · [Analytics](https://brajesh31-dev.github.io/brajesh31-dev/#analytics) · [Control Center](https://brajesh31-dev.github.io/brajesh31-dev/#control) · [RPG Zone](https://brajesh31-dev.github.io/brajesh31-dev/#rpg) · [Museum](https://brajesh31-dev.github.io/brajesh31-dev/#museum) · [Contributions](https://brajesh31-dev.github.io/brajesh31-dev/#contributions) · [Knowledge](https://brajesh31-dev.github.io/brajesh31-dev/#knowledge)
+</details>
+
+### What I Build
+
+`AI Systems` · `Full-Stack Products` · `Developer Tools` · `Automation` · `Web Experiences`
+
+<p align="center">   <img     src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif"     width="100%"     height="2"     alt="Divider"   /> </p>
+
+
+## 👨🏻‍💻 About Me
+
+### 🚀 Executive Summary
+
+I work across **software engineering, AI/ML, DevOps, platform engineering, and automation**, building and improving systems from development to deployment. My work ranges from designing and shipping **full-stack applications and developer tools** to working with **AI/ML models, model training, LLM applications, and intelligent automation**. Beyond individual projects, I’m involved in **developer communities, technical initiatives, and product development**, where I work across engineering, infrastructure, and community building. I enjoy moving between different layers of technology, understanding how systems fit together, and turning ideas into practical solutions that can be built, deployed, and used in the real world.
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./assets/maintainer-system-scan-light.svg"
+  />
+
+  <img
+    src="./assets/maintainer-system-scan-dark.svg"
+    width="860"
+    alt="Brajesh Kumar animated maintainer system scan"
+  />
+</picture>
+
+</div>
+
+<table width="100%">
+  <tr>
+    <td width="64%" valign="top">
+      <h3>🛠️ What I Work On</h3>
+      <ul>
+        <li>🔭 I work across <strong>full-stack development, AI/ML, DevOps, platform engineering, and automation</strong>, often moving between application code, infrastructure, and the systems that connect them.</li>
+        <li>🤖 On the AI side, I work with <strong>model training, LLM applications, RAG systems, and intelligent automation</strong>, focusing on practical and production-oriented use cases.</li>
+        <li>🏗️ I build <strong>web applications, developer tools, automation workflows, and technical platforms</strong>, with an emphasis on reliable, maintainable, and practical software.</li>
+        <li>🔄 I enjoy working across different layers of a system, from <strong>application development and APIs to infrastructure, deployment, and automation</strong>.</li>
+      </ul>
+    </td>
+    <td width="36%" align="center" valign="middle">
+      <img src="./thoughtworks-gif_dribbble.gif" width="100%" alt="Developer working on software" />
+    </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td width="36%" align="center" valign="middle">
+      <img src="./assets/git-header.svg" width="100%" alt="Developer and technology illustration" />
+    </td>
+    <td width="64%" valign="top">
+      <h3>🧩 How I Build</h3>
+      <ul>
+        <li>💡 I like turning rough ideas into <strong>clear, structured solutions</strong>, starting with the problem before jumping into implementation.</li>
+        <li>🚀 My approach usually follows <strong>concept → architecture → implementation → deployment → iteration</strong>, adapting each stage to what the product actually needs.</li>
+        <li>🎯 I care about the balance between <strong>good engineering, thoughtful design, and real-world utility</strong>. A technically strong product should also be understandable, usable, and useful.</li>
+        <li>🤝 I’m open to collaborating on <strong>AI products, full-stack applications, developer tools, infrastructure, automation, and open-source projects</strong>.</li>
+        <li>🌍 Outside of engineering, I enjoy <strong>exploring new places, riding, gaming, and working on creative ideas</strong>.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+## 🧬 Developer DNA
+
+My developer identity is a connected system: full-stack engineering, AI/ML, developer tools, automation, cloud/DevOps, and open-source development reinforce one another.
+
+<p align="center">
+  <img src="./assets/developer-dna.svg" width="100%" alt="Animated Developer DNA map for Brajesh Kumar" />
+</p>
+
+## 🌌 My Developer World
+
+<p align="center">
+  <a href="https://brajesh31-dev.github.io/brajesh31-dev/#world">
+    <img src="./assets/pixel-world.svg" width="100%" alt="Pixel-art Developer World with AI Lab, Full-Stack HQ and Cloud Deck" />
+  </a>
+</p>
+
+<p align="center"><a href="https://brajesh31-dev.github.io/brajesh31-dev/#world"><strong>Open the interactive world map →</strong></a></p>
+
+### Pixel World & Developer Space Station
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="./assets/pixel-world.svg" width="100%" alt="Pixel-art developer world with AI lab, development headquarters and cloud deck" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="./assets/developer-space-station.svg" width="100%" alt="Developer space station dashboard for projects, AI systems and community" />
+    </td>
+  </tr>
+</table>
+
+## 🗺️ Developer Journey Map & Coding Mountain
+
+<table width="100%">
+  <tr>
+    <td width="58%" align="center" valign="top">
+      <img src="./assets/developer-journey-map.svg" width="100%" alt="Developer journey map from learning through community building" />
+    </td>
+    <td width="42%" align="center" valign="top">
+      <img src="./assets/coding-mountain.svg" width="100%" alt="Coding mountain with thematic developer checkpoints" />
+    </td>
+  </tr>
+</table>
+
+<p><em>The map uses verified themes from this profile and repositories. It intentionally avoids invented dates, years of experience, or performance scores.</em></p>
+
+## 🏗️ Flagship Projects
+
+*A selection of projects that represent the systems I build across AI, full-stack engineering, automation, and product development.*
+
+Project repository links now use **brajesh31-dev**. Repositories are being restored to this account.
+
+| Project | What I Built | Key Technologies | Highlights |
+|---|---|---|---|
+| **[Bharat XR Platform](https://bharatxr.co/)** | Contributed to its XR web and platform ecosystem, alongside community initiatives. | XR · AR/VR · Web platforms | Spatial computing · Community programs · Platform initiatives |
+| **[AgroTech AI](https://github.com/brajesh31-dev/Agro_tech_AI)** | Multi-service agriculture platform combining disease and crop APIs with an AI assistant, quiz app, and frontend. | React · Vite · Node.js · Express · MongoDB · Gemini API · Docker | Disease prediction · Crop rotation · Map experiences · OAuth · Docker Compose |
+| **[Glaucoma Detection using Deep Learning & NSGA-II](https://github.com/brajesh31-dev/Glaucoma-Detection-NSGA)** | Retinal-image training and inference pipeline with CNN and transfer-learning support, NSGA-II hyperparameter search, and Grad-CAM++ visualizations. | Python · PyTorch · TorchVision · scikit-learn · DEAP · Flask | Fundus image classification · 5-fold cross-validation · NSGA-II search · Grad-CAM++ |
+| **[Multi-Agent Observability with OpenTelemetry](https://github.com/brajesh31-dev/multi-agent-observability-opentelemetry)** | LangGraph multi-agent reference system instrumented to trace routing decisions, tool calls, latency, token usage, and failures. | Python · LangGraph · OpenTelemetry · OTLP | Agent-level traces · Custom metrics · Loop guardrails · Error attribution |
+| **[Influencer Sponsor Coordination Platform](https://github.com/brajesh31-dev/Influencer-Sponsor-Coordination-Platform)** | Campaign app connecting sponsor and influencer accounts through dashboards, REST APIs, and scheduled ad-request checks. | Python · Flask · Flask-RESTful · Flask-SQLAlchemy · SQLite · APScheduler | Sponsor and influencer roles · Campaign workflows · Ad-request APIs · Scheduled checks |
+| **[Arexa Website](https://arexa.co/)** | Built the Arexa XR studio website as a multi-page React application for its services, work, industries, case studies, and contact flows. | React · TypeScript · Vite · Tailwind CSS · Framer Motion | Animated route transitions · Responsive AR video carousel · Case-study and services routes · Page metadata and VideoObject schema |
+| **[BharatXR Ambassador Portal](https://ambassador.bharatxr.co/)** | Built a full-stack ambassador platform with student and admin dashboards for onboarding, tasks, chapters, events, and community operations. | React · TypeScript · PHP · MySQL · PDO · REST APIs | PHP session authentication · Task and proof submissions · Admin review and analytics · Chapter, event, and finance workflows |
+| **[AR Core Studio](https://github.com/brajesh31-dev/ar-core-studio)** | Built a browser-based AR viewer and admin portal for grouping Snap lenses and serving shareable AR experiences. | React · TypeScript · Snap Camera Kit · PHP · MySQL · Push2Web | Camera Kit lens carousel · Snap login and camera permissions · Group and lens management · Image/video capture with chunked uploads |
+| **[Self-Healing Intrusion Detection System](https://github.com/brajesh31-dev/self-healing-ids-main)** | Built a Streamlit IDS prototype that runs bundled demo flows through XGBoost detection and decision-tree playbook selection, then visualizes simulated response actions. | Python · Streamlit · XGBoost · scikit-learn · pandas · joblib | XGBoost threat classification · Decision-tree playbook selection · Single-flow and 50-packet simulations · Session audit log and threat chart |
+| **[Speech Emotion Detection](https://github.com/brajesh31-dev/emotion-detector)** | Built a Flask inference app that processes uploaded or recorded speech with 40-coefficient MFCC features and returns a label with model confidence. | Python · Flask · TensorFlow/Keras · Librosa · NumPy · joblib | Browser recording and audio uploads · MFCC preprocessing · Fixed-length pad/truncate pipeline · Saved-model inference with label decoding |
+
+<p align="center">
+  <img
+    src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif"
+    width="100%"
+    height="2"
+    alt="Divider"
+  />
+</p>
+
+## ⏱️ Coding Activity
+
+<table width="100%">
+  <tr>
+    <td width="60%" align="center" valign="middle">
+      <a href="https://wakatime.com/@Brajesh31">
+        <img src="https://wakatime.com/share/@Brajesh31/a6325579-60a8-4beb-ab7a-7d680bdbfbac.svg" alt="Brajesh Kumar's WakaTime Coding Activity" width="100%" />
+      </a>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="./assets/code-mode.gif" alt="Coding mode" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <i>Tracking the hours behind the code.</i>
+</p>
+
+### ⏰ Commit Clock & Commit Weather
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center"><img src="./assets/commit-clock.svg" width="100%" alt="Commit Clock based on WakaTime and GitHub activity signals" /></td>
+    <td width="50%" align="center"><img src="./assets/commit-weather.svg" width="100%" alt="Commit Weather creative coding activity forecast" /></td>
+  </tr>
+</table>
+
+<p><em>These are visual metaphors for the WakaTime and GitHub activity integrations below, not literal weather or fabricated live readings.</em></p>
+
+<table width="100%">
+  <tr>
+    <th width="50%" align="center">Git Ranker</th>
+    <th width="50%" align="center">WakaTime</th>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <a href="https://www.git-ranker.com/ko/users/brajesh31-dev">
+        <img src="https://www.git-ranker.com/api/v1/badges/U_kgDOC7jPUA" alt="Git Ranker badge for brajesh31-dev" width="100%" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=brajesh31&amp;theme=dracula&amp;layout=compact" alt="Brajesh Kumar WakaTime coding statistics" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>🏙️ Contribution City</h3>
+      <img src="https://raw.githubusercontent.com/brajesh31-dev/brajesh31-dev/main/contribution-city.svg" alt="brajesh31-dev Contribution City" width="100%" />
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="https://raw.githubusercontent.com/brajesh31-dev/brajesh31-dev/main/metrics/metrics-achievements.svg" alt="brajesh31-dev GitHub achievements and fortune card" width="100%" />
+    </td>
+  </tr>
+</table>
+
+### 🧭 Programming Language Analytics & Activity Radar
+
+<table width="100%">
+  <tr>
+    <td width="58%" align="center" valign="top">
+      <img src="./assets/language-timeline.svg" width="100%" alt="Programming language timeline grounded in repository technologies" />
+    </td>
+    <td width="42%" align="center" valign="top">
+      <img src="./assets/activity-radar.svg" width="100%" alt="Qualitative developer focus radar for frontend, backend, AI, cloud, DevOps and automation" />
+    </td>
+  </tr>
+</table>
+
+<p><em>Repository language distribution and existing technology sections are the source of truth; the radar is a focus map, not a proficiency assessment.</em></p>
+
+## ✍️ Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [MCP Is Dead.](https://brajesh31.medium.com/mcp-is-dead-e2fd0f3ee38e?source=rss-a0a2c966e2f7------2)
+- [Why Your API Shouldn’t Send Emails](https://brajesh31.medium.com/why-your-api-shouldnt-send-emails-1f9f99de16a9?source=rss-a0a2c966e2f7------2)
+- [Why Uber Doesn’t Use Cron Jobs](https://brajesh31.medium.com/why-uber-doesnt-use-cron-jobs-8df43b100de4?source=rss-a0a2c966e2f7------2)
+<!-- BLOG-POST-LIST:END -->
+
+<p align="center">
+  <img
+    src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif"
+    width="100%"
+    height="2"
+    alt="Divider"
+  />
+</p>
+
+
+## 🧊 3D Contribution Map
+
+<!-- 3D CONTRIBUTION MAP — generated by GitHub Action -->
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="Brajesh Kumar 3D Contribution Map" />
+</div>
+
+<br/>
+### 📈 GitHub Stats
+
+### 📊 GitHub Overview
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+  <a href="https://github.com/brajesh31-dev">
+    <img
+  src="https://github-readme-stats-fast.vercel.app/api?username=brajesh31-dev&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=default&theme=github_dark&hide_border=true&show_icons=true&number_format=long&disable_animations=true"
+  alt="Brajesh Kumar GitHub Stats"
+  width="100%"
+/>
+  </a>
+</td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/brajesh31-dev">
+        <img src="https://streak-stats.demolab.com/?user=brajesh31-dev&amp;theme=neon&amp;hide_border=true&amp;date_format=j%20M%5B%20Y%5D&amp;border_radius=10&amp;background=0D1117&amp;border=30363D&amp;ring=00C7FF&amp;fire=00C7FF&amp;currStreakNum=00C7FF&amp;sideNums=00C7FF&amp;currStreakLabel=00C7FF&amp;sideLabels=C9D1D9&amp;dates=8B949E&amp;stroke=30363D&amp&cache=latest" alt="Brajesh Kumar GitHub Streak" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/brajesh31-dev">
+    <img src="https://github-trophies.vercel.app/?username=brajesh31-dev&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=2&column=6&cache=latest1" alt="GitHub Trophies for brajesh31-dev" width="100%" />
+  </a>
+</p>
+
+### 💻 Language Statistics
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/brajesh31-dev?tab=repositories">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brajesh31-dev&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;title_color=00C7FF&amp;text_color=C9D1D9&amp;bg_color=0D1117&amp;cache_seconds=21600&amp" alt="Brajesh Kumar Top Languages" width="100%" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/brajesh31-dev?tab=repositories">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brajesh31-dev&amp;theme=github_dark&amp" alt="Repository Language Distribution for brajesh31-dev" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+### 📊 GitHub Insights
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/brajesh31-dev">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brajesh31-dev&amp;theme=github_dark&amp" alt="Brajesh Kumar GitHub Summary Stats" width="100%" />
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/brajesh31-dev">
+        <img src="./assets/productive-time.svg" alt="Brajesh Kumar Commits by Hour (UTC+5:30)" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table width="95%" align="center">
+  <tr>
+    <td width="40%" align="center" valign="middle">
+      <img
+        src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif"
+        alt="GitHub activity animation"
+        width="60%"
+      />
+    </td>
+    <td width="60%" align="center" valign="middle">
+      <img
+        src="https://awesome-github-stats.azurewebsites.net/user-stats/brajesh31-dev?cardType=level-alternate&theme=tokyonight&preferLogin=true"
+        alt="brajesh31-dev GitHub statistics"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
+
+### 🔥 Contribution Activity
+
+<p align="center">
+  <a href="https://github.com/brajesh31-dev">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brajesh31-dev&amp;theme=github_dark&amp" alt="Brajesh Kumar Contribution Activity" width="100%" />
+  </a>
+</p>
+
+## 📡 Developer Impact Dashboard
+
+<p align="center">
+  <img src="./assets/impact-dashboard.svg" width="100%" alt="Developer impact dashboard linking to live GitHub statistics" />
+</p>
+
+<p align="center"><em>Live repository, contribution, pull request, issue, star, follower and language signals remain in the GitHub cards above and below. No static numbers are invented here.</em></p>
+
+## 🕸️ GitHub Network Graph & Developer Activity Timeline
+
+<table width="100%">
+  <tr>
+    <td width="55%" align="center"><img src="./assets/github-network.svg" width="100%" alt="GitHub network graph connecting projects, technologies and development areas" /></td>
+    <td width="45%" align="center"><img src="./assets/developer-activity-timeline.svg" width="100%" alt="Developer activity timeline distinct from the contribution calendar" /></td>
+  </tr>
+</table>
+
+## 🖥️ Developer Terminal
+
+<p align="center">
+  <img src="./assets/developer-terminal.svg" width="100%" alt="Brajesh Kumar developer terminal profile" />
+</p>
+
+## 🏛️ Achievement Museum
+
+<p><em>Curated galleries below reuse the existing custom badges, AWS certifications, GitHub Copilot badge, GSSoC badges, Holopin wall, security graphics and GitHub achievement cards. Nothing is duplicated or replaced.</em></p>
+
+<p><strong>Certification wing</strong> · AWS and GitHub Copilot &nbsp;|&nbsp; <strong>Open-source wing</strong> · GSSoC and Holopin &nbsp;|&nbsp; <strong>Technical wing</strong> · custom badges and GitHub achievements &nbsp;|&nbsp; <strong>Events &amp; leadership</strong> · Hack-Web3Conf, collaboration and community badges</p>
+
+### 🛡️ Certifications, Open Source & Technical Achievements
+
+<table width="100%">
+  <tr>
+    <td align="center" valign="middle">
+      <p align="center">
+        <a href="https://github.com/brajesh31-dev"><img src="assets/Adventurer%20Badge.png" alt="Adventurer badge" width="100" /></a>
+        <a href="https://github.com/brajesh31-dev"><img src="assets/Champion%20Badge.png" alt="Champion badge" width="100" /></a>
+        <a href="https://github.com/brajesh31-dev"><img src="assets/Conqurer%20Badge.png" alt="Conqurer badge" width="100" /></a>
+        <a href="https://github.com/brajesh31-dev"><img src="assets/Explorer%20Badge.png" alt="Explorer badge" width="100" /></a>
+        <a href="https://github.com/brajesh31-dev"><img src="assets/Innovator%20Bage.png" alt="Innovator badge" width="100" /></a>
+        <a href="https://github.com/brajesh31-dev"><img src="assets/Postman%20Badge.png" alt="Postman badge" width="100" /></a>
+        <a href="https://github.com/brajesh31-dev"><img src="assets/Summit%20Seeker%20Badge.png" alt="Summit Seeker badge" width="100" /></a>
+        <br />
+        <a href="https://github.com/brajesh31-dev"><img src="assets/Trailblazer%20Badge.png" alt="Trailblazer badge" width="100" /></a>
+        <a href="https://github.com/brajesh31-dev"><img src="assets/Hands-on%20collab.png" alt="Hands-on Collab badge" width="100" /></a>
+        <a href="https://github.com/brajesh31-dev"><img src="assets/Hand-on%20Snowflake.png" alt="Hands-on Snowflake badge" width="100" /></a>
+        <a href="https://github.com/brajesh31-dev"><img src="assets/8.png" alt="Dragon badge" width="100" /></a>
+        <a href="https://github.com/brajesh31-dev"><img src="assets/assertion-XkuMujUWTASFmoCJW7fpVw.png" alt="Assertion badge" width="100" /></a>
+        <a href="https://github.com/brajesh31-dev"><img src="assets/Git%20Explorer.png" alt="Git Explorer badge" width="100" /></a>
+        <a href="https://github.com/brajesh31-dev"><img src="assets/Hack-Web3Conf%202024%20Badge%20(2).png" alt="Hack-Web3Conf 2024 badge" width="100" /></a>
+      </p>
+      <div align="center">
+        <a href="https://github.com/brajesh31-dev"><img alt="AWS Certified Cloud Practitioner — GitHub profile" src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="108" /></a>
+        <a href="https://github.com/brajesh31-dev"><img alt="AWS Certified Solutions Architect - Associate — GitHub profile" src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="108" /></a>
+        <a href="https://github.com/brajesh31-dev"><img alt="AWS Certified Developer - Associate — GitHub profile" src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="108" /></a>
+        <a href="https://github.com/brajesh31-dev"><img alt="AWS Certified SysOps Administrator - Associate — GitHub profile" src="https://images.credly.com/size/680x680/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" width="108" /></a>
+        <a href="https://github.com/brajesh31-dev"><img alt="AWS Certified Solutions Architect - Professional — GitHub profile" src="https://images.credly.com/size/680x680/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width="108" /></a>
+        <a href="https://github.com/brajesh31-dev"><img src="assets/github-copilot.png" alt="GitHub Copilot badge" width="100" /></a>
+        <br /><br />
+        <a href="https://github.com/brajesh31-dev"><img src="https://github.com/user-attachments/assets/187cf391-9424-4383-997b-2acfc108ec8b" width="120" alt="GSSoC badge 1" /></a>
+        <a href="https://github.com/brajesh31-dev"><img src="https://github.com/user-attachments/assets/2a31b2c3-7ca9-4df7-bc65-50770cf31890" width="120" alt="GSSoC badge 2" /></a>
+        <a href="https://github.com/brajesh31-dev"><img src="https://github.com/user-attachments/assets/b5b72892-9ca1-4cee-b07b-ef34b5db205b" width="120" alt="GSSoC badge 3" /></a>
+        <a href="https://github.com/brajesh31-dev"><img src="https://github.com/user-attachments/assets/46aaaf87-14eb-4d89-8375-66dae77503bf" width="120" alt="GSSoC badge 4" /></a>
+        <a href="https://github.com/brajesh31-dev"><img src="https://github.com/user-attachments/assets/433e6aed-9ce4-4cf7-bf26-23c5497fae5f" width="120" alt="GSSoC badge 5" /></a>
+        <a href="https://github.com/brajesh31-dev"><img src="https://github.com/user-attachments/assets/879bfb83-d3c5-40da-a4e2-234197cd2697" width="120" alt="GSSoC badge 6" /></a>
+        <br />
+        <a href="https://github.com/brajesh31-dev"><img src="https://github.com/user-attachments/assets/6d57b5bf-41ac-4ee7-b69a-7f3d8a45e5d6" width="120" alt="GSSoC badge 7" /></a>
+        <a href="https://github.com/brajesh31-dev"><img src="https://github.com/user-attachments/assets/19ce29d9-547c-4d3d-a2ef-3260b74ac55b" width="120" alt="GSSoC badge 8" /></a>
+        <a href="https://github.com/brajesh31-dev"><img src="https://github.com/user-attachments/assets/fe182042-9a8d-4fef-9a66-6978a2377503" width="120" alt="GSSoC badge 9" /></a>
+        <a href="https://github.com/brajesh31-dev"><img src="https://github.com/user-attachments/assets/ac9c0633-b751-4c3e-80d6-b205427d6146" width="120" alt="GSSoC badge 10" /></a>
+        <a href="https://github.com/brajesh31-dev"><img src="https://github.com/user-attachments/assets/c017ee12-3947-4ff9-9234-7628ba95d960" width="120" alt="GSSoC badge 11" /></a>
+        <a href="https://github.com/brajesh31-dev"><img src="https://github.com/user-attachments/assets/d40b4d04-017e-4f39-881e-bbef16f5a097" width="120" alt="GSSoC badge 12" /></a>
+      </div>
+      <p align="center">
+        <a href="https://holopin.io/@brajesh31">
+          <img src="https://holopin.me/brajesh31" alt="Brajesh Kumar Holopin achievement badges" width="100%" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+## 🧙 RPG Developer Character & Git Animals
+
+<table width="100%">
+  <tr>
+    <td width="42%" align="center" valign="top">
+      <img src="./assets/rpg-developer-character.svg" width="100%" alt="Decorative RPG developer character and inventory" />
+    </td>
+    <td width="58%" align="center" valign="top">
+      <p><em>The existing contribution-grown Git Animals world remains in its original gallery below. This character is intentionally decorative: it does not assign fake skill levels or years of experience.</em></p>
+      <p><code>inventory: terminal · AI systems · APIs · containers · open source</code></p>
+    </td>
+  </tr>
+</table>
+
+## 🎯 Expertise Areas
+
+### 💻 Software Engineering
+
+#### Programming Languages
+
+<div align="center" style="width: 100%; white-space: nowrap;">
+<img src="https://skillicons.dev/icons?i=c&amp;theme=dark" height="55" alt="C icon" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=cpp&amp;theme=dark" height="55" alt="C++ icon" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=java&amp;theme=dark" height="55" alt="Java icon" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=js&amp;theme=dark" height="55" alt="JavaScript icon" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=ts&amp;theme=dark" height="55" alt="TypeScript icon" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=py&amp;theme=dark" height="55" alt="Python icon" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=go&amp;theme=dark" height="55" alt="Go icon" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=dart&amp;theme=dark" height="55" alt="Dart icon" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=html&amp;theme=dark" height="55" alt="HTML icon" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=css&amp;theme=dark" height="55" alt="CSS icon" />
+</div>
+
+#### Frontend Engineering
+
+<div align="center" style="width: 100%; white-space: nowrap;">
+<img src="https://skillicons.dev/icons?i=react&amp;theme=dark" height="45" alt="React icon" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=vite&amp;theme=dark" height="45" alt="Vite icon" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=tailwind&amp;theme=dark" height="45" alt="Tailwind CSS icon" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=bootstrap&amp;theme=dark" height="45" alt="Bootstrap icon" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=materialui&amp;theme=dark" height="45" alt="Material UI icon" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/chartjs/chartjs-original.svg" height="45" alt="Chart.js logo" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/framermotion/framermotion-original.svg" height="45" alt="Framer Motion logo" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/reactrouter/reactrouter-original.svg" height="45" alt="React Router logo" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/headlessui" height="45" alt="Headless UI logo" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/leaflet" height="45" alt="Leaflet logo" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/fontawesome" height="45" alt="Font Awesome logo" />&nbsp;&nbsp;<img src="https://react-leaflet.js.org/img/logo.svg" height="45" alt="React Leaflet logo" />
+</div>
+
+#### Backend &amp; API Engineering
+
+<div align="center" style="width: 100%; white-space: nowrap;">
+<img src="https://skillicons.dev/icons?i=nodejs&amp;theme=dark" height="55" alt="Node.js icon" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=express&amp;theme=dark" height="55" alt="Express.js icon" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=fastapi&amp;theme=dark" height="55" alt="FastAPI icon" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/nodemailer/nodemailer@0780032250ad5c566b5d8e6fd56ca8c210e423ec/assets/nm_logo_200x136.png" height="55" alt="Nodemailer logo" />
+</div>
+
+#### Databases
+
+<div align="center" style="width: 100%; white-space: nowrap;">
+<img src="https://skillicons.dev/icons?i=mysql&amp;theme=dark" height="55" alt="MySQL icon" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=mongodb&amp;theme=dark" height="55" alt="MongoDB icon" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/mongoose/mongoose-original.svg" height="55" alt="Mongoose logo" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/phpmyadmin" height="55" alt="phpMyAdmin logo" />
+</div>
+
+### 🤖 AI &amp; Intelligent Systems
+
+#### AI / Machine Learning
+
+<div align="center" style="width: 100%; white-space: nowrap;">
+<img src="https://skillicons.dev/icons?i=pytorch&amp;theme=dark" height="45" alt="PyTorch icon" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=tensorflow&amp;theme=dark" height="45" alt="TensorFlow icon" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=sklearn&amp;theme=dark" height="45" alt="scikit-learn icon" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=opencv&amp;theme=dark" height="45" alt="OpenCV icon" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/keras/keras-original.svg" height="45" alt="Keras logo" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/numpy/numpy-original.svg" height="45" alt="NumPy logo" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/pandas/pandas-original.svg" height="45" alt="Pandas logo" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/matplotlib/matplotlib-original.svg" height="45" alt="Matplotlib logo" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/jupyter/jupyter-original.svg" height="45" alt="Jupyter logo" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/mwaskom/seaborn@c1cb287835852406691aed60ea0c62710f2c6b18/doc/_static/logo-mark-darkbg.svg" height="45" alt="Seaborn logo" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/librosa/librosa@08e2c0a20d650fe00f10aaf3a1eaa9698ac19641/docs/img/librosa_logo_dark.svg" height="45" alt="Librosa logo" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/DEAP/deap@8a96fd3a75026f7b30e835f595a5199c75634ddf/doc/_static/deap_icon-39x55.png" height="45" alt="DEAP logo" />
+</div>
+
+#### Generative AI &amp; LLM
+
+<div align="center" style="width: 100%; white-space: nowrap;">
+<img src="https://cdn.simpleicons.org/googlegemini" height="55" alt="Gemini API logo" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/google" height="55" alt="Google Generative AI logo" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/langchain" height="55" alt="LangChain logo" />
+</div>
+
+### ☁️ Cloud &amp; Engineering
+
+#### Cloud
+
+<div align="center" style="width: 100%; white-space: nowrap;">
+<img src="https://skillicons.dev/icons?i=aws&amp;theme=dark" height="55" alt="AWS icon" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=azure&amp;theme=dark" height="55" alt="Microsoft Azure icon" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=vercel&amp;theme=dark" height="55" alt="Vercel icon" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/hostinger" height="55" alt="Hostinger logo" />
+</div>
+
+#### DevOps &amp; Infrastructure
+
+<div align="center" style="width: 100%; white-space: nowrap;">
+<img src="https://skillicons.dev/icons?i=docker&amp;theme=dark" height="55" alt="Docker icon" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=jenkins&amp;theme=dark" height="55" alt="Jenkins icon" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=linux&amp;theme=dark" height="55" alt="Linux icon" />
+</div>
+
+### 🧰 Development Tools
+
+#### Developer Tools
+
+<div align="center" style="width: 100%; white-space: nowrap;">
+<img src="https://skillicons.dev/icons?i=git&amp;theme=dark" height="48" alt="Git icon" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=github&amp;theme=dark" height="48" alt="GitHub icon" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=gitlab&amp;theme=dark" height="48" alt="GitLab icon" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=vscode&amp;theme=dark" height="48" alt="Visual Studio Code icon" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=webstorm&amp;theme=dark" height="48" alt="WebStorm icon" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=npm&amp;theme=dark" height="48" alt="npm icon" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=webpack&amp;theme=dark" height="48" alt="Webpack icon" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/jira/jira-original.svg" height="48" alt="Jira logo" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/postman/postman-original.svg" height="48" alt="Postman logo" />
+</div>
+
+### Other
+
+<div align="center" style="width: 100%; white-space: nowrap;">
+<img src="https://cdn.simpleicons.org/langgraph" height="48" alt="LangGraph logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=githubactions&amp;theme=dark" height="48" alt="GitHub Actions icon" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/opentelemetry/F5A800" height="48" alt="OpenTelemetry logo" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=jest&amp;theme=dark" height="48" alt="Jest icon" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/pytest/pytest-original.svg" height="48" alt="PyTest logo" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/oauth/oauth-original.svg" height="48" alt="OAuth 2.0 logo" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/jsonwebtokens/00C7FF" height="48" alt="JSON Web Tokens logo" />&nbsp;&nbsp;<img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Stripe_Logo,_revised_2016.svg" height="48" alt="Stripe wordmark" />
+</div>
+
+## Random Developer Quote 💡 <img height="40" alt="brajesh31-dev" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+
+<img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200" alt="GitHub animation" />
+
+> ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=tokyonight)
+
+<br/>
+
+<br clear="right"/>
+
+<div align="center">
+<table width="100%">
+<tr>
+
+<td align="center" width="50%">
+
+<h2>🐾 Git Animals <img height="40" alt="brajesh31-dev" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h2>
+
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=brajesh31-dev&utm_content=farm">
+  <img
+    src="https://render.gitanimals.org/farms/brajesh31-dev?cache=3"
+    width="600"
+    height="300"
+  />
+</a>
+</td>
+
+<td align="center" width="50%">
+
+<h2>🎮 TETRIS FUN <img height="40" alt="brajesh31-dev" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h2>
+
+<a href="https://play.tetris.com/play-now" target="_blank" rel="noopener">
+  <img src="https://charmve.github.io/sponsor_files/playagame.png" alt="Play Tetris with Me" width="180px">
+</a>
+
+<br/>
+<strong>🎮 Play Tetris with Me!</strong><br/>
+Watch the blocks stack!
+
+<p>
+🟦🟥🟩🟨🟪🟦🟨<br/>
+🟥🟩🟪🟦🟩🟨🟥<br/>
+🟩🟨🟥🟦🟪🟩🟦<br/>
+🟪🟦🟨🟥🟩🟦🟨<br/>
+🟦🟨🟪🟩🟥🟪🟩
+</p>
+
+Keep stacking and clearing lines! 🚀<br/>
+🎮 <strong>Play the real game here:</strong> 👉 <a href="https://play.tetris.com/play-now">https://play.tetris.com/play-now</a>
+
+</td>
+
+</tr>
+</table>
+</div>
+
+<br/>
+
+
+
+
+
+
+
+
+<!--<br><br><br>
+ <h4 align="center">Wait!👋 don't forget to check out my social media handles <img align="center" src="images\Handshake.gif" height="30px"></h4>
+
+<p align="center">
+  <code><a href="https://bk117134@gmail.com/" target="_blank"> 
+  <img src="images\Social Media\Gmail_icon_(2020).svg" alt="Gmail"  width="30px"/> </a></code>
+  <code><a href="https://www.linkedin.com/in/brajesh-kumar-9b58651a8" target="_blank">
+  <img align="center" src="images\Social Media\linkedin.svg" alt="linkedin" width="30px" /></a></code>  
+  <code><a href="#" target="_blank">
+  <img align="center" src="images\Social Media\twitter.svg" alt="Twitter" width="30px" /></a></code>
+</p>
+<br/>
+<br />
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=brajesh31-dev&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=brajesh31-dev&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=brajesh31-dev&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆GitHub Trophies
+![]()
+
+---
+[![](https://visitcount.itsvg.in/api?id=brajesh31-dev&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
+
+-->
+## 🐠 The Koi Pond | My Coding Journey
+
+Every contribution leaves a mark. Watch my coding journey take shape through this little koi, growing and swimming with my GitHub activity.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/brajesh31-dev/brajesh31-dev/main/koi/koi.gif" width="256" alt="brajesh31-dev's Git Koi contribution animation" />
+</p>
+
+<p align="center">
+  <i>A little fish. A long coding journey.</i>
+</p>
+
+## 📊 Contribution Graph
+
+I contribute regularly to open-source projects and share my work with the GitHub community.
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brajesh31-dev/brajesh31-dev/main/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brajesh31-dev/brajesh31-dev/main/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution graph animation" src="https://raw.githubusercontent.com/brajesh31-dev/brajesh31-dev/main/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+### Skyline
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/brajesh31-dev/brajesh31-dev/skyline/skyline.svg" alt="brajesh31-dev GitHub contribution skyline" width="100%" />
+</p>
+
+### Pacman
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brajesh31-dev/brajesh31-dev/pacman/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brajesh31-dev/brajesh31-dev/pacman/pacman-contribution-graph.svg">
+    <img src="https://raw.githubusercontent.com/brajesh31-dev/brajesh31-dev/pacman/pacman-contribution-graph.svg" alt="brajesh31-dev Pacman contribution graph animation" width="100%" />
+  </picture>
+</p>
+
+### Space Shooter
+
+<p align="center">
+  <img src="./game.gif" alt="brajesh31-dev GitHub contribution Space Shooter game" width="100%" />
+</p>
+
+### GitHub Breakout
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/brajesh31-dev/brajesh31-dev/github-breakout/images/custom.svg" alt="brajesh31-dev GitHub Breakout contribution game" width="100%" />
+</p>
+
+### Minesweeper
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brajesh31-dev/brajesh31-dev/output/minesweeper-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brajesh31-dev/brajesh31-dev/output/minesweeper-contribution-graph.svg">
+    <img src="https://raw.githubusercontent.com/brajesh31-dev/brajesh31-dev/output/minesweeper-contribution-graph.svg" alt="brajesh31-dev Minesweeper contribution graph" width="100%" />
+  </picture>
+</p>
+
+<h2 id="profile-count-views" align="center">Profile Views</h2>
+
+<p align="center">A small counter showing visits to my profile.</p>
+
+<p align="center">
+  <img
+    src="https://count.getloli.com/@brajesh31-dev?theme=love-and-deepspace&padding=8&offset=1&align=center&scale=1.1&pixelated=1&darkmode=auto"
+    alt="brajesh31-dev profile view counter"
+    width="420"
+  />
+</p>
+
+## 🤝 Let’s connect
+
+<p align="center"><a href="https://github.com/brajesh31-dev"><img src="./assets/neon-social-card-handle.svg" width="336" height="106" alt="GitHub @brajesh31-dev" /></a><a href="https://github.com/brajesh31-dev"><img src="./assets/neon-social-card-github.svg" width="63" height="106" alt="GitHub" /></a><a href="https://www.linkedin.com/in/brajesh31/"><img src="./assets/neon-social-card-linkedin.svg" width="63" height="106" alt="LinkedIn" /></a><a href="https://www.instagram.com/_brajesh31/"><img src="./assets/neon-social-card-instagram.svg" width="63" height="106" alt="Instagram" /></a><a href="https://x.com/lord_Brajesh"><img src="./assets/neon-social-card-x.svg" width="63" height="106" alt="X" /></a><a href="https://www.youtube.com/@lifebetweencommit"><img src="./assets/neon-social-card-youtube.svg" width="63" height="106" alt="YouTube" /></a><a href="https://medium.com/@brajesh31"><img src="./assets/neon-social-card-medium.svg" width="63" height="106" alt="Medium" /></a><a href="https://brajesh31.com"><img src="./assets/neon-social-card-portfolio.svg" width="63" height="106" alt="Portfolio" /></a><a href="https://wa.me/919548797453"><img src="./assets/neon-social-card-whatsapp.svg" width="63" height="106" alt="WhatsApp" /></a></p>
+
+## Let’s build useful software
+
+I’m interested in collaborating with founders, engineers, AI infrastructure teams, and open-source maintainers working on hard problems with care and curiosity.
+
+<br/>
+
+<div align="center">
+  <sub>Build boldly · test thoughtfully · ship safely</sub>
+</div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/79472177/205426120-3426ca36-711a-4ad6-a064-5bcf708c84cf.jpg" alt="git">
+</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="">
+</div>
+
+<div align="center">
+  <sub>© 2021 Brajesh Kumar</sub>
+</div>
