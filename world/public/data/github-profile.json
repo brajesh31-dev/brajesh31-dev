@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-25T13:53:14.191Z",
+  "generatedAt": "2026-11-26T15:09:27.866Z",
   "source": "GitHub REST API public profile and repositories",
   "profile": {
     "login": "brajesh31-dev",
     "publicRepos": 1,
     "followers": 0,
-    "following": 0
+    "following": 1
   },
   "repositories": [
     {
